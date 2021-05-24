@@ -72,6 +72,9 @@
     },
     "h5" : {
         "title" : "贴吧加盐工具",
-        "domain" : "tieba.loxin.pro"
+        "domain" : "tieba.loxin.pro",
+        "router" : {
+            "base" : "./"
+        }
     }
 }
