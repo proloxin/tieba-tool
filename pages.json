@@ -1,0 +1,17 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "文字美化工具"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "贴吧文字加盐工具",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#bebebe"
+		
+	}
+}
